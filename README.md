@@ -1,4 +1,4 @@
-# unidades-4-5-6
+# unidades 4-5-6
 Acá estan las practicas realizadas en arduino y su respectivo programa de visual.
 
 **INTEGRANTES:**
