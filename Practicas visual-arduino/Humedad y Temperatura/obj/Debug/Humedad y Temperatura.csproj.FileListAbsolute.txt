@@ -1,0 +1,5 @@
+C:\Users\mkaa\Documents\Practicas visual-arduio\Humedad y Temperatura\obj\Debug\Humedad y Temperatura.csproj.AssemblyReference.cache
+C:\Users\mkaa\Documents\Practicas visual-arduio\Humedad y Temperatura\obj\Debug\Humedad_y_Temperatura.Form1.resources
+C:\Users\mkaa\Documents\Practicas visual-arduio\Humedad y Temperatura\obj\Debug\Humedad_y_Temperatura.Properties.Resources.resources
+C:\Users\mkaa\Documents\Practicas visual-arduio\Humedad y Temperatura\obj\Debug\Humedad y Temperatura.csproj.GenerateResource.cache
+C:\Users\mkaa\Documents\Practicas visual-arduio\Humedad y Temperatura\obj\Debug\Humedad y Temperatura.csproj.CoreCompileInputs.cache
