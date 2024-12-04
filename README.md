@@ -5,3 +5,4 @@ Acá estan las practicas realizadas en arduino y su respectivo programa de visua
 - Yessica Josefina Mariano Gallegos
 - Carlos Escalante Cruz 
 - Axel Omar Torres Jiménez
+Si ve un archivo erroneo avisenos porfis, se me paso borrar los equivocados
