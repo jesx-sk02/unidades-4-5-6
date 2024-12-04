@@ -1,0 +1,13 @@
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\bin\Debug\Humedad en suelo.exe.config
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\bin\Debug\Humedad en suelo.exe
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\bin\Debug\Humedad en suelo.pdb
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\bin\Debug\System.IO.Ports.dll
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\bin\Debug\System.IO.Ports.xml
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\obj\Debug\Humedad en suelo.csproj.AssemblyReference.cache
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\obj\Debug\Humedad_en_suelo.Form1.resources
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\obj\Debug\Humedad_en_suelo.Properties.Resources.resources
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\obj\Debug\Humedad en suelo.csproj.GenerateResource.cache
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\obj\Debug\Humedad en suelo.csproj.CoreCompileInputs.cache
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\obj\Debug\Humedad .42646F22.Up2Date
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\obj\Debug\Humedad en suelo.exe
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Humedad en suelo\obj\Debug\Humedad en suelo.pdb
