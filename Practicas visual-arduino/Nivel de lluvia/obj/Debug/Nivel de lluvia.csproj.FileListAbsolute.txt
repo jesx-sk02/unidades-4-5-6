@@ -1,0 +1,13 @@
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\bin\Debug\Nivel de lluvia.exe.config
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\bin\Debug\Nivel de lluvia.exe
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\bin\Debug\Nivel de lluvia.pdb
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\bin\Debug\System.IO.Ports.dll
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\bin\Debug\System.IO.Ports.xml
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\obj\Debug\Nivel de lluvia.csproj.AssemblyReference.cache
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\obj\Debug\Nivel_de_lluvia.Form1.resources
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\obj\Debug\Nivel_de_lluvia.Properties.Resources.resources
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\obj\Debug\Nivel de lluvia.csproj.GenerateResource.cache
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\obj\Debug\Nivel de lluvia.csproj.CoreCompileInputs.cache
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\obj\Debug\Nivel de.6B5A450C.Up2Date
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\obj\Debug\Nivel de lluvia.exe
+C:\Users\Josefina Mariano\Documents\Practicas visual-arduino\Nivel de lluvia\obj\Debug\Nivel de lluvia.pdb
